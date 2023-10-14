@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Software Developer from India.</h3>
 <img align="right" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chitti-g-k&label=Profile%20views&color=0e75b6&style=flat" alt="chitti-g-k" /> </p>
-
 - 📫 How to reach me **nidhiakshaygk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
